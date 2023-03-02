@@ -14,3 +14,7 @@ summary(Viveros)
 sd(Viveros$IE)
 var(Viveros$IE)
 mean(Viveros$IE)
+#Importar datos
+prof_url <- "http://www.profepa.gob.mx/innovaportal/file/7635/1/accionesInspeccionfoanp.csv"
+profepa <- read.csv(prof_url)
+
