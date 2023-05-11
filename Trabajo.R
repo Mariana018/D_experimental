@@ -117,4 +117,4 @@ barplot(feeds)
 
 barplot(feeds[order(feeds, decreasing = TRUE)])
 
-Yaretzy Mariana Ortega Martinez
+#Yaretzy Mariana Ortega Martinez
