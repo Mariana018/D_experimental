@@ -1,3 +1,4 @@
+![Github](https://github.com/Mariana018/D_experimental/assets/124898043/cda95050-3642-4c1e-8b47-668f81889f43)
 # Diseño Experimental Curso
 repositorio para almacenar **código** y tareas durante el semestre EJ2023 de la clase Diseños Experimentales 
 
