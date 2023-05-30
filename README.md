@@ -7,3 +7,5 @@ repositorio para almacenar **código** y tareas durante el semestre EJ2023 de la
 + 
 +Laboratorio  primer contacto con Rstudio 
 Uso de la caluclador 22/02/23
+
+##Tarea 1
