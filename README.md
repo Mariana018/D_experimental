@@ -10,11 +10,11 @@ repositorio para almacenar **código** y tareas durante el semestre EJ2023 de la
 Uso de la caluclador 22/02/23
 
 
-#CONTENIDO  VISTO EN EL SEMESTRE
+## CONTENIDO  VISTO EN EL SEMESTRE
 +Introduci al programa R 
 trabajamos primero en la toma de datos y toma de objetos creados del invetraio 
-funciones graficas :
-# boxplot 
+# funciones graficas :
+#boxplot 
 #barplot 
 utilizar el sort 
 
@@ -44,3 +44,4 @@ Aplicacion de pruebas
 ANOVA 
 ANOVA DE UN FACTOR
 PRUEBA DE TUCKEY
+![Githubbb](https://github.com/Mariana018/D_experimental/assets/124898043/dcb55a93-2e05-407d-8f1e-73b764d7ba7e)
